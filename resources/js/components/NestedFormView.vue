@@ -5,7 +5,7 @@
   >
     <icon
       class="cursor-pointer"
-      type="view"
+      type="edit"
       viewBox="1 -1.5 20 20"
     />
   </nested-form-icon>
